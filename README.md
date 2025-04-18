@@ -4,9 +4,7 @@ I am a dedicated Industrial Engineer with a passion for process optimization, AI
 ## Education
 - **University of Johannesburg**
   - Bachelor of Engineering Technology Honours in Industrial Engineering (2023)
-    - Research Topic: Identifying the Primary Factors Behind Project Failures within a Company
   - Bachelor of Engineering Technology Degree in Industrial Engineering (2022)
-    - Research Topic: Facility Layout Optimization
 
 ## Experience
 ### **Industrial Engineer**  
@@ -20,16 +18,13 @@ I am a dedicated Industrial Engineer with a passion for process optimization, AI
 - **Auto Industrial Foundry** (2023 - 2024)  
   - Implemented 5S and standardized machine operation instructions.
 
-- **Tiger Brands Beverages** (2022)  
-  - Improved production flow and layout, achieving an 11% optimization.
-
 ### **Tutor**  
 - **University of Johannesburg** (2022)  
   - Guided first-year students in Technical Graphics and AutoCAD.
 
 ## Skills
-- **Technical**: Data Analysis, Project Management, Supply Chain, Manufacturing Processes  
-- **Tools**: MS Office, Power BI, AutoCAD, Visio  
+- **Technical**: Data Analysis, Project Management, Automation, Supply Chain
+- **Tools**: Power Query, Power Automate, Excel, VBA, Power BI, Tableau, Smartsheet, , Power BI, AutoCAD, Visio  
 - **Soft Skills**: Strong Communication, Analytical Thinking, Team Collaboration  
 
 ## Certifications
